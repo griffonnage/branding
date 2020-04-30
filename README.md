@@ -1,6 +1,10 @@
 # Griffonnage Branding
 
-Graphical design files for griffonnage branding
+> Scribble careless drawings with friends, privately
+
+[![License](https://img.shields.io/github/license/griffonnage/griffonnage-branding)](https://github.com/griffonnage/griffonnage-branding/blob/master/LICENSE)
+
+Graphical design files for Griffonnage branding
 
 ## Inspiration
 
